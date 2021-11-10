@@ -33,5 +33,5 @@ app.post('/mod', jsonParser, (req, res) => {
 
 
 // start the server listening for requests
-let listener = app.listen(3000, 
+let listener = app.listen(process.env.PORT || 3000, 
 	() => console.log(`App is running...`));
