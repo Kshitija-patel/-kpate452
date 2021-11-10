@@ -1,0 +1,29 @@
+{
+  "name": "kpate452",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kshitija-patel/kpate452.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Kshitija-patel/kpate452/issues"
+  },
+  "homepage": "https://github.com/Kshitija-patel/kpate452#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.15",
+    "npm": "^8.1.3",
+    "run": "^1.4.0",
+    "start": "^5.1.0"
+  },
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
