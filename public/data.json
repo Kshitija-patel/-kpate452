@@ -1,0 +1,24 @@
+{
+    "data": [
+        {
+            "description": "variables are how we store data in memory. Variables give us the ability to keep track of all of the data for our application",
+            "url": "https://www.coursereport.com/blog/5-javascript-terms-beginners-need-to-know",
+            "importance": 1
+        },
+        {
+            "description": "While JavaScript provides us with a rich library of available functions, when you are building an application there are going to be custom actions that you will want to make. If variables are nouns, functions are verbs.",
+            "url": "https://www.coursereport.com/blog/5-javascript-terms-beginners-need-to-know",
+            "importance": 2
+        },
+        {
+            "description": "A loop is a structure in code where you perform the same action or actions multiple times in a row.",
+            "url": "https://www.coursereport.com/blog/5-javascript-terms-beginners-need-to-know",
+            "importance": 3
+        },
+        {
+            "description": "An object is the basic data structure in JavaScript. Objects have properties, also known as keys, to which are assigned values",
+            "url": "https://www.coursereport.com/blog/5-javascript-terms-beginners-need-to-know",
+            "importance": 2
+        }
+    ]
+}
